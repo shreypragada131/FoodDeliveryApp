@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441439675694",
+    "project_id": "fooddeliverytute-shrey",
+    "storage_bucket": "fooddeliverytute-shrey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441439675694:android:9a4a26a3998037f24286bf",
+        "android_client_info": {
+          "package_name": "fooddelivery.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZRA2ZSp4AK2AV7DKdylpbwhSIwHQCAOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
